@@ -1,7 +1,4 @@
 # GDriveCloneWeb
-
-
-### Web version of [GdriveCloneBot](https://github.com/jsmsj/GdriveCloneBot)
 ---
 #### Live Demo : [Click Me](https://gdrivecloneweb-1-i4395649.deta.app/) (Note: this host is a bit slow with network bound tasks. This issue won't be there if hosting locally.) 
 
